@@ -17,8 +17,13 @@ Additional zsh-extensions:
 
 ## LF file manager
 Allows to navigate folder structure inside shell.  
-Installation: https://linoxide.com/lf-terminal-manager-linux/  
-Tutorial: https://github.com/gokcehan/lf/wiki/Tutorial
+Installation: 
+- download lf-linux-amd64.tar.gz from https://github.com/gokcehan/lf/releases
+- unzip with `tar xvf lf-linux-amd64.tar.gz`
+- make file executable `chmod +x lf`
+- and move it `sudo mv lf /usr/local/bin`  
+  
+Tutorial: https://github.com/gokcehan/lf/wiki/Tutorial  
 Usage guide: https://www.youtube.com/watch?v=2oWqD3JCXuI&ab_channel=EricMurphy
 
 
